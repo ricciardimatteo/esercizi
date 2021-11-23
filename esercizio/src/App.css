@@ -1,0 +1,39 @@
+
+body {
+  background-color:rgb(159, 211, 211);
+  padding-top: 50px;
+}
+
+h1 {
+margin: 0 auto;
+font-size: 1.2rem;
+color: blue;
+text-align: center;
+margin-bottom:30px
+}
+
+.form {
+margin: 0 auto;
+color: black;
+text-align:center;
+}
+
+button {
+background-color:black;
+color: white;
+border-radius:20%;
+margin-left:15px;
+margin-left:15px;
+}
+
+.btnchange {
+  background-color:rgb(240, 195, 47);
+  color: rgb(14, 13, 13);
+  border-radius:20%;
+  margin-left:15px;
+  margin-left:15px;
+  }
+
+ul {
+  list-style-type: none;
+  }
